@@ -34,3 +34,7 @@ const getCollegeName = () => {
 
 // console.log(abc);
 // var abc = "hari";
+const getName= () => {
+    console.log("hi,{name}");
+};
+getName("babish");
